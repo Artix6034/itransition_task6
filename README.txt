@@ -2,6 +2,7 @@ TASK 6 DATA - SQL contact generator
 
 Live application: https://itransition-contacts-artix6034.onrender.com
 Public source: https://github.com/Artix6034/itransition_task6
+Video demonstration: https://github.com/Artix6034/itransition_task6/raw/refs/heads/main/demo.mp4
 Procedure documentation: https://itransition-contacts-artix6034.onrender.com/docs
 Free Render database expires December 3, 2026. Recreate it or change the plan before then.
 
