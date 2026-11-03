@@ -1,0 +1,39 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>SQL contact generator: procedure reference</title>
+<style>body{font:16px/1.65 system-ui,sans-serif;color:#24394b;max-width:1000px;margin:35px auto;padding:0 22px}h1{line-height:1.2}h2{margin-top:38px}table{border-collapse:collapse;width:100%;font-size:14px}td,th{text-align:left;vertical-align:top;padding:10px;border-bottom:1px solid #dce3e8}th{background:#edf2f6}pre{background:#edf2f6;padding:18px;overflow:auto;font-size:14px}code{font-size:.9em}a{color:#205f79}</style></head><body>
+<a href="/">← Contact generator</a><h1>SQL procedure reference</h1>
+<p>The database generates every contact field. Python validates request arguments, calls the batch procedure and renders its rows. No Faker code or random-number generation runs in the application.</p>
+<h2>Installation</h2><p>Use PostgreSQL 14 or later and Python 3.11 or later. Set <code>DATABASE_URL</code>, install <code>requirements.txt</code>, and run <code>python init_db.py</code>. This creates the <code>fake</code> schema, procedures and locale dictionaries. Initialization replaces the two lookup tables; run it during deployment, outside user requests.</p>
+<pre>BEGIN;
+CALL fake.generate_users('en_US', '42', 0, 10, 'contacts');
+FETCH ALL FROM contacts;
+COMMIT;</pre>
+<p>The cursor is valid inside the transaction. Fetch before committing. A new call in the same transaction replaces that transaction's temporary generated table; close or consume the preceding cursor first.</p>
+<h2>Batch procedure</h2><table><tr><th>Argument</th><th>Type</th><th>Meaning</th></tr>
+<tr><td>p_locale</td><td>text</td><td>Existing locale code, initially en_US or de_DE.</td></tr>
+<tr><td>p_seed</td><td>text</td><td>Any seed string up to 128 characters. Case and leading zeros matter.</td></tr>
+<tr><td>p_offset</td><td>bigint</td><td>Zero-based first record, from 0 to 10¹².</td></tr>
+<tr><td>p_count</td><td>integer</td><td>Number of records, 1 to 1,000,000. The web page uses 10 and the public API caps requests at 1,000.</td></tr>
+<tr><td>result</td><td>INOUT refcursor</td><td>Caller-chosen cursor name, default fake_users.</td></tr></table>
+<p>Returned columns: <code>position, full_name, address, latitude, longitude, height_cm, weight_kg, eye_color, phone, email</code>. Position is zero-based. Heights and weights retain full floating-point precision in the API; the page rounds their display.</p>
+<h2>Helper procedures</h2><p>All output parameters below are INOUT. Pass NULL or an initialized variable when calling a helper.</p>
+<table><tr><th>Procedure</th><th>Inputs</th><th>Outputs and algorithm</th></tr>
+<tr><td>fake.uniforms</td><td>locale text, seed text, position bigint, count integer</td><td>result double precision[]. For stream s, hash the JSON tuple [locale, seed, position, s] using MD5. Convert the first 52 bits to integer h. Return (h+0.5)/2⁵², strictly between zero and one. Deterministic pseudo-random data, not cryptographic randomness.</td></tr>
+<tr><td>fake.normal_value</td><td>u1, u2, mean, deviation (double precision)</td><td>result double precision. Box-Muller: mean + deviation × sqrt(-2 ln u1) × cos(2πu2). Requires 0 &lt; u1,u2 &lt; 1 and deviation ≥ 0.</td></tr>
+<tr><td>fake.coordinates</td><td>u1, u2 (double precision)</td><td>latitude and longitude (double precision, degrees). Latitude = asin(2u1−1) × 180/π; longitude = 360u2−180. This is uniform by sphere surface area because sin(latitude), not latitude, is uniform.</td></tr>
+<tr><td>fake.format_text</td><td>template text, keys text[], vals text[]</td><td>result text. Replaces each {key} by the corresponding value. The key and value arrays must have equal length.</td></tr>
+<tr><td>fake.person_name</td><td>uniform array, first-name array, surname array, template array, title text</td><td>first_name, last_name, full_name (text). Selects locale dictionary entries and a template with an optional middle name or title.</td></tr>
+<tr><td>fake.address_text</td><td>uniform array, streets[], cities[], postals[], templates[], country text</td><td>result text. Selects a city/postcode pair, street, building number (1–999), optional unit (1–99) and a locale address template.</td></tr>
+<tr><td>fake.contact_text</td><td>uniform array, phone templates[], first_name text, last_name text, position bigint</td><td>phone and email (text). Varies phone formatting, transliterates email names and appends the record position at example.test.</td></tr></table>
+<h2>Reproducibility and distributions</h2>
+<p>Web batch b, item i maps to position 10b+i. The generator does not use database global RNG state, time, connection identity or query order. Requesting batches out of order gives identical records. Changing the batch size also preserves every absolute position.</p>
+<p>Independent streams select gender, names, address components, phone format, coordinates, normal attributes and eye color. Height is normal with standard deviation 7 cm and means 178/165 cm. Weight is normal with standard deviation 12 kg and means 80/65 kg. Gender groups have equal probability. The combined population is a mixture of these two normal distributions. Values are not clipped. Very rare implausible tails are possible.</p>
+<p>Coordinates are sampled over the whole sphere and deliberately do not identify the generated address. Addresses, city/postcode combinations and telephone numbers are fictional; this library does not validate postal deliverability. Email uses the reserved test domain.</p>
+<h2>Dictionaries and adding a locale</h2>
+<p>The shared tables are <code>fake.locales</code> (templates), <code>fake.words(locale,kind,ordinal,value)</code> and <code>fake.places(locale,ordinal,city,postal_code)</code>. A new locale needs rows in these tables, not new tables or Python branches. Word kinds are first_male, first_female, surname and street. Keep ordinals stable: dictionary changes can change previously generated output even for the same seed.</p>
+<p>Lookup words come from the MIT-licensed <a href="https://github.com/joke2k/faker">Faker project</a>, version 40.44.0, en_US and de_DE providers. Streets and fictional city/postcode pairs were prepared once, using a fixed seed, and saved as CSV. These CSV files are the runtime data source. See data/NOTICE.txt for provenance and the included license.</p>
+<h2>Benchmark</h2><pre>python benchmark.py --count 100000 --repeats 3</pre>
+<p>The benchmark times SQL generation and temporary-table materialization. It excludes network transfer and HTML rendering. See benchmark.json for the measured local result. Throughput depends on the database CPU, configuration and number of requested rows.</p>
+<h2>HTTP API</h2><pre>GET /api/users?locale=de_DE&amp;seed=42&amp;offset=10&amp;count=10</pre>
+<p>The API returns a JSON array. <code>/health</code> checks database connectivity. <code>/docs</code> serves this reference. The optional Markov-chain text extension is not implemented.</p>
+<p>References: <a href="https://www.postgresql.org/docs/current/sql-call.html">PostgreSQL CALL</a>, <a href="https://www.postgresql.org/docs/current/plpgsql-cursors.html">cursor lifetime</a>, <a href="https://www.psycopg.org/psycopg3/docs/basic/usage.html">Psycopg usage</a>.</p>
+</body></html>

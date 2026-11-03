@@ -1,0 +1,12 @@
+Lookup data provenance
+
+Personal names: Faker 40.44.0, en_US and de_DE person providers.
+Streets and fictional city/postcode pairs: generated once with Faker 40.44.0
+using seed 20261103, then stored in words.csv and places.csv.
+City/postcode combinations are fictional and may not be geographically valid.
+
+Faker is used only to prepare the CSV dictionaries. The deployed application
+has no Faker dependency. All runtime contact generation runs in PostgreSQL.
+
+Upstream: https://github.com/joke2k/faker
+License: MIT; see FAKER_LICENSE.txt in this directory.

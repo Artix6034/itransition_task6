@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Contact generator</title><link rel="stylesheet" href="{{ url_for('static',filename='style.css') }}"></head>
+<body><main>
+<nav><strong>Contact generator</strong><a href="/docs">SQL documentation</a></nav>
+<header><h1>Generate sample contacts</h1><p>Choose a region and seed. The same settings always return the same records.</p></header>
+<form method="get" class="controls">
+<label>Region<select name="locale">{% for choice in choices %}<option value="{{ choice.code }}" {% if choice.code==locale %}selected{% endif %}>{{ choice.label }}</option>{% endfor %}</select></label>
+<label>Seed<input name="seed" value="{{ seed }}" maxlength="128" required></label>
+<button type="submit">Generate</button><input type="hidden" name="batch" value="0">
+</form>
+{% if error %}<p role="alert" class="error">{{ error }}</p>{% endif %}
+<section class="table-heading"><h2>Batch {{ batch + 1 }}</h2><span>10 records per batch</span></section>
+<div class="table-wrap"><table><thead><tr><th>#</th><th>Contact</th><th>Address</th><th>Coordinates</th><th>Physical attributes</th></tr></thead>
+<tbody>{% for row in rows %}<tr><td>{{ row.position + 1 }}</td><td><strong>{{ row.full_name }}</strong><span>{{ row.email }}</span><span>{{ row.phone }}</span></td>
+<td>{{ row.address }}</td><td class="numeric">{{ '%.5f'|format(row.latitude) }}<br>{{ '%.5f'|format(row.longitude) }}</td>
+<td>{{ '%.1f'|format(row.height_cm) }} cm · {{ '%.1f'|format(row.weight_kg) }} kg<span>{{ row.eye_color }}</span></td></tr>{% endfor %}</tbody></table></div>
+<footer><span>Fictional data. Coordinates are sampled worldwide, independently of the address.</span><div>
+{% if batch>0 %}<a class="button secondary" href="{{ url_for('index',locale=locale,seed=seed,batch=batch-1) }}">Previous</a>{% endif %}
+<a class="button" href="{{ url_for('index',locale=locale,seed=seed,batch=batch+1) }}">Next batch →</a></div></footer>
+</main></body></html>

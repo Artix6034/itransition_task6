@@ -1,0 +1,2001 @@
+locale,ordinal,city,postal_code
+en_US,1,Aaronmouth,86271
+en_US,2,Aaronville,48975
+en_US,3,Abigailtown,32182
+en_US,4,Adamsmouth,16336
+en_US,5,Alanmouth,64793
+en_US,6,Alanmouth,87607
+en_US,7,Alecview,63515
+en_US,8,Alexanderchester,19191
+en_US,9,Alexanderport,47429
+en_US,10,Alexisland,97757
+en_US,11,Allenberg,41230
+en_US,12,Allenborough,58481
+en_US,13,Alyssamouth,79996
+en_US,14,Amandamouth,65677
+en_US,15,Amandastad,68706
+en_US,16,Amandaville,60872
+en_US,17,Amyfort,37981
+en_US,18,Amystad,47000
+en_US,19,Andersonside,55071
+en_US,20,Andersonstad,91259
+en_US,21,Andreaport,74272
+en_US,22,Andrewshire,83991
+en_US,23,Andrewsmouth,05164
+en_US,24,Annamouth,59349
+en_US,25,Anthonyberg,07671
+en_US,26,Anthonyberg,81573
+en_US,27,Anthonymouth,15144
+en_US,28,Armstrongton,20681
+en_US,29,Ashleyberg,11734
+en_US,30,Ashleyside,81376
+en_US,31,Austinborough,49061
+en_US,32,Austinton,17107
+en_US,33,Baileyton,62814
+en_US,34,Bakerborough,68737
+en_US,35,Barnesview,71199
+en_US,36,Bauerfurt,17426
+en_US,37,Benjaminfort,51162
+en_US,38,Benjaminmouth,71181
+en_US,39,Bennettview,55764
+en_US,40,Bentleyborough,91558
+en_US,41,Berryberg,44108
+en_US,42,Berryfurt,41034
+en_US,43,Bettyshire,53714
+en_US,44,Biancatown,66632
+en_US,45,Blackchester,69534
+en_US,46,Blackland,20465
+en_US,47,Boydstad,96775
+en_US,48,Brandonmouth,86419
+en_US,49,Brendanburgh,38542
+en_US,50,Briantown,64027
+en_US,51,Brittanyfurt,27120
+en_US,52,Brownfurt,90791
+en_US,53,Browningfurt,23809
+en_US,54,Brownport,71556
+en_US,55,Brownton,12396
+en_US,56,Bryanberg,94224
+en_US,57,Bryanfurt,99186
+en_US,58,Burnsburgh,88148
+en_US,59,Campbellfort,51038
+en_US,60,Cardenasmouth,11311
+en_US,61,Cardenasport,84436
+en_US,62,Carterside,35826
+en_US,63,Caseyberg,07833
+en_US,64,Chavezton,81011
+en_US,65,Chrisbury,93267
+en_US,66,Christinaborough,35514
+en_US,67,Christinafurt,46679
+en_US,68,Christinefurt,33437
+en_US,69,Christinehaven,51380
+en_US,70,Christopherburgh,91268
+en_US,71,Christophershire,87502
+en_US,72,Christopherside,98182
+en_US,73,Christopherville,28248
+en_US,74,Cindyburgh,26933
+en_US,75,Clarkfurt,71744
+en_US,76,Clarkshire,47920
+en_US,77,Claudiastad,87956
+en_US,78,Clayview,48091
+en_US,79,Coleburgh,37862
+en_US,80,Collinsstad,15687
+en_US,81,Colonmouth,37073
+en_US,82,Colontown,68193
+en_US,83,Coltonshire,54431
+en_US,84,Connormouth,33834
+en_US,85,Cookton,69667
+en_US,86,Cooperfort,20071
+en_US,87,Coxmouth,71287
+en_US,88,Craigmouth,52009
+en_US,89,Cruzmouth,74657
+en_US,90,Crystalborough,69936
+en_US,91,Crystalfort,69165
+en_US,92,Crystalmouth,81742
+en_US,93,Crystalstad,19857
+en_US,94,Cuevasborough,30851
+en_US,95,Cummingsbury,89564
+en_US,96,Curtisland,31604
+en_US,97,Curtistown,73359
+en_US,98,Danielside,90548
+en_US,99,Dannyville,45529
+en_US,100,Davidchester,38446
+en_US,101,Davidland,22191
+en_US,102,Davidland,28917
+en_US,103,Davidshire,99839
+en_US,104,Davishaven,08404
+en_US,105,Davisview,61050
+en_US,106,Dawnland,24767
+en_US,107,Daystad,81002
+en_US,108,Deanborough,73369
+en_US,109,Deanmouth,53658
+en_US,110,Dennisport,10621
+en_US,111,Devinshire,29777
+en_US,112,Diazberg,76491
+en_US,113,Domingueztown,62612
+en_US,114,Donaldburgh,20713
+en_US,115,Donovanmouth,66718
+en_US,116,Duffymouth,29090
+en_US,117,Dunnberg,03301
+en_US,118,Dyerville,95691
+en_US,119,East Alantown,54342
+en_US,120,East Aliciaton,93787
+en_US,121,East Alisonborough,95310
+en_US,122,East Amandaport,91528
+en_US,123,East Ashleyfurt,56337
+en_US,124,East Barbarabury,81589
+en_US,125,East Brianview,19738
+en_US,126,East Casey,80032
+en_US,127,East Christopher,20205
+en_US,128,East Collin,39664
+en_US,129,East Courtney,55495
+en_US,130,East Cynthia,73387
+en_US,131,East Danielfort,19949
+en_US,132,East Deanburgh,08096
+en_US,133,East Debrastad,23860
+en_US,134,East Deniseside,30324
+en_US,135,East Destinyberg,54156
+en_US,136,East Diana,11754
+en_US,137,East Elizabeth,38568
+en_US,138,East Elizabethside,84511
+en_US,139,East Evanland,81940
+en_US,140,East Frederick,77295
+en_US,141,East Gerald,46142
+en_US,142,East Gregoryton,22627
+en_US,143,East Hannahchester,63587
+en_US,144,East Heatherfort,34999
+en_US,145,East Jackieside,61170
+en_US,146,East James,08915
+en_US,147,East Juliaborough,40810
+en_US,148,East Kennethburgh,42866
+en_US,149,East Kurtton,18792
+en_US,150,East Leslietown,07663
+en_US,151,East Lisa,29302
+en_US,152,East Mark,21319
+en_US,153,East Markchester,43570
+en_US,154,East Matthewport,86197
+en_US,155,East Melanie,04182
+en_US,156,East Melinda,81599
+en_US,157,East Michaelberg,22579
+en_US,158,East Monicaton,46096
+en_US,159,East Patrick,59382
+en_US,160,East Reginaton,21720
+en_US,161,East Robertborough,42068
+en_US,162,East Roberthaven,62894
+en_US,163,East Robertoport,46841
+en_US,164,East Russell,37219
+en_US,165,East Ryan,98993
+en_US,166,East Ryanberg,32732
+en_US,167,East Samuelfort,58648
+en_US,168,East Samuelmouth,45848
+en_US,169,East Sarafort,66028
+en_US,170,East Shane,74839
+en_US,171,East Stephen,67451
+en_US,172,East Stephenburgh,72628
+en_US,173,East Susan,95499
+en_US,174,East Vanessaport,73533
+en_US,175,East Vanessaville,92743
+en_US,176,East Victoria,17350
+en_US,177,East Wendyhaven,08628
+en_US,178,East Williamton,90806
+en_US,179,Edwardport,07549
+en_US,180,Edwardshaven,66085
+en_US,181,Edwardside,93354
+en_US,182,Elizabethfurt,41778
+en_US,183,Elizabethville,33623
+en_US,184,Ellenmouth,53588
+en_US,185,Ellenview,69321
+en_US,186,Ellisland,91623
+en_US,187,Ellisonhaven,53749
+en_US,188,Ericfort,49971
+en_US,189,Ericport,72407
+en_US,190,Ericstad,86133
+en_US,191,Fernandoton,04929
+en_US,192,Finleyside,67566
+en_US,193,Fletchershire,19217
+en_US,194,Fordfurt,98508
+en_US,195,Fostermouth,24552
+en_US,196,Foxmouth,84387
+en_US,197,Gallagherview,14001
+en_US,198,Garciafurt,89709
+en_US,199,Garrisonland,68157
+en_US,200,Garyfurt,36254
+en_US,201,Gayberg,08512
+en_US,202,Georgefurt,52451
+en_US,203,Gibsonbury,33846
+en_US,204,Gilbertville,29582
+en_US,205,Gileston,67028
+en_US,206,Glendaland,23960
+en_US,207,Glennmouth,77803
+en_US,208,Gomezmouth,01678
+en_US,209,Gonzalesberg,71851
+en_US,210,Gonzalezstad,54700
+en_US,211,Gonzalezton,42726
+en_US,212,Gonzaleztown,02235
+en_US,213,Greenechester,74745
+en_US,214,Greenton,68396
+en_US,215,Gregoryburgh,50382
+en_US,216,Gregoryland,95641
+en_US,217,Griffinland,01960
+en_US,218,Guyland,91803
+en_US,219,Guytown,17903
+en_US,220,Haasbury,54913
+en_US,221,Haleymouth,02888
+en_US,222,Hallchester,28584
+en_US,223,Halltown,60567
+en_US,224,Hallville,71529
+en_US,225,Hannahburgh,89412
+en_US,226,Hannahland,14849
+en_US,227,Hannahstad,01081
+en_US,228,Hannahville,59568
+en_US,229,Hansenstad,54891
+en_US,230,Haroldhaven,86091
+en_US,231,Harringtonberg,60794
+en_US,232,Harristown,39215
+en_US,233,Hatfieldland,94174
+en_US,234,Hawkinshaven,05459
+en_US,235,Hawkinstown,09507
+en_US,236,Haynesfurt,56353
+en_US,237,Heathershire,92492
+en_US,238,Heatherstad,72706
+en_US,239,Heidiborough,99928
+en_US,240,Hendersontown,05814
+en_US,241,Hensonville,30588
+en_US,242,Herrerachester,63438
+en_US,243,Hickschester,91120
+en_US,244,Hillborough,21349
+en_US,245,Hillfort,41285
+en_US,246,Hillton,01809
+en_US,247,Hobbstown,42118
+en_US,248,Holdenstad,60920
+en_US,249,Holmeshaven,11467
+en_US,250,Hoodville,99693
+en_US,251,Hooperburgh,06681
+en_US,252,Hornport,47891
+en_US,253,Howardshire,13288
+en_US,254,Howellport,41122
+en_US,255,Huangshire,50022
+en_US,256,Hughesview,82083
+en_US,257,Hullport,27518
+en_US,258,Huntfort,81334
+en_US,259,Isaiahview,18307
+en_US,260,Jacksonchester,65473
+en_US,261,Jacksonshire,30914
+en_US,262,Jacobbury,64287
+en_US,263,Jacobland,33502
+en_US,264,Jacquelineborough,66780
+en_US,265,Jacquelinebury,32090
+en_US,266,Jamesberg,48392
+en_US,267,Jamesberg,52060
+en_US,268,Jamesberg,80976
+en_US,269,Jamesburgh,70983
+en_US,270,Jamesfort,48458
+en_US,271,Jamesfort,98905
+en_US,272,Jamesland,34211
+en_US,273,Jamiefurt,06162
+en_US,274,Jamieville,89875
+en_US,275,Janestad,20236
+en_US,276,Janicehaven,16200
+en_US,277,Janiceport,35827
+en_US,278,Jaredhaven,23750
+en_US,279,Jasonburgh,10061
+en_US,280,Jasonside,63521
+en_US,281,Jeffreyberg,21096
+en_US,282,Jeffreyberg,28694
+en_US,283,Jeffreybury,25546
+en_US,284,Jeffreytown,00906
+en_US,285,Jenkinsshire,26268
+en_US,286,Jenkinsville,49843
+en_US,287,Jenniferburgh,53465
+en_US,288,Jenniferbury,38627
+en_US,289,Jenniferbury,60974
+en_US,290,Jenniferchester,37964
+en_US,291,Jenniferview,21545
+en_US,292,Jeremyside,83032
+en_US,293,Jesusborough,10795
+en_US,294,Jesustown,48180
+en_US,295,Jodiland,28599
+en_US,296,Johnborough,27621
+en_US,297,Johnfurt,74072
+en_US,298,Johnsonborough,54394
+en_US,299,Johnsonfort,13292
+en_US,300,Johnsonfort,37242
+en_US,301,Johnsontown,60766
+en_US,302,Johnsonville,04795
+en_US,303,Johnton,83558
+en_US,304,Johntown,07677
+en_US,305,Jonathanshire,16531
+en_US,306,Jonesberg,44778
+en_US,307,Jonestown,46056
+en_US,308,Josephfurt,76135
+en_US,309,Josephstad,64170
+en_US,310,Josephton,36313
+en_US,311,Joshuaside,09117
+en_US,312,Joshuaview,18194
+en_US,313,Joyceville,84239
+en_US,314,Juarezside,62964
+en_US,315,Juarezstad,55871
+en_US,316,Judyshire,09983
+en_US,317,Juliatown,34470
+en_US,318,Justinshire,53321
+en_US,319,Justinton,50082
+en_US,320,Justintown,22679
+en_US,321,Karenborough,81263
+en_US,322,Katrinashire,66222
+en_US,323,Katrinaville,93704
+en_US,324,Kaylamouth,61332
+en_US,325,Kaylaview,89869
+en_US,326,Keithshire,66083
+en_US,327,Keithside,03219
+en_US,328,Kellermouth,03146
+en_US,329,Kellermouth,21295
+en_US,330,Kelleyberg,34121
+en_US,331,Kellytown,31101
+en_US,332,Kennethmouth,77570
+en_US,333,Kerrtown,47806
+en_US,334,Kerryhaven,10895
+en_US,335,Kevinport,82089
+en_US,336,Kimberlymouth,04764
+en_US,337,Kimberlyville,56712
+en_US,338,Kimhaven,37610
+en_US,339,Kingshire,51332
+en_US,340,Kochport,17088
+en_US,341,Kristenport,20973
+en_US,342,Kurtton,91587
+en_US,343,Lake Adam,53820
+en_US,344,Lake Andrea,85878
+en_US,345,Lake Anna,31354
+en_US,346,Lake Anthonyton,25090
+en_US,347,Lake Ashleyville,44213
+en_US,348,Lake Barbara,38457
+en_US,349,Lake Barbara,98610
+en_US,350,Lake Barbarafurt,24323
+en_US,351,Lake Billfurt,95040
+en_US,352,Lake Brittanymouth,48614
+en_US,353,Lake Caleb,84785
+en_US,354,Lake Cherylview,41868
+en_US,355,Lake Chloestad,50633
+en_US,356,Lake Christina,27053
+en_US,357,Lake Christopherfort,73725
+en_US,358,Lake Christopherstad,91973
+en_US,359,Lake Daisytown,04479
+en_US,360,Lake Deborahhaven,01487
+en_US,361,Lake Dianafort,70066
+en_US,362,Lake Erin,07157
+en_US,363,Lake Ernest,93234
+en_US,364,Lake Hayley,36944
+en_US,365,Lake Heidichester,91573
+en_US,366,Lake Hollybury,27369
+en_US,367,Lake Ianberg,66392
+en_US,368,Lake Jamesview,09501
+en_US,369,Lake Jay,54858
+en_US,370,Lake Jenniferton,55773
+en_US,371,Lake Jessica,17014
+en_US,372,Lake John,19887
+en_US,373,Lake Johnchester,55536
+en_US,374,Lake Johnmouth,70724
+en_US,375,Lake Jonathan,62723
+en_US,376,Lake Joseph,75061
+en_US,377,Lake Joshua,30757
+en_US,378,Lake Julia,46991
+en_US,379,Lake Justin,23199
+en_US,380,Lake Justinfurt,00864
+en_US,381,Lake Karenfurt,56836
+en_US,382,Lake Keith,87585
+en_US,383,Lake Kimberlyton,68063
+en_US,384,Lake Kristieville,35836
+en_US,385,Lake Lauren,36578
+en_US,386,Lake Lori,89784
+en_US,387,Lake Mackenzietown,28916
+en_US,388,Lake Marieport,35315
+en_US,389,Lake Matthewside,07389
+en_US,390,Lake Michael,06929
+en_US,391,Lake Michael,29605
+en_US,392,Lake Michael,96258
+en_US,393,Lake Michellemouth,40304
+en_US,394,Lake Morganbury,63686
+en_US,395,Lake Nicholas,85958
+en_US,396,Lake Paigemouth,01197
+en_US,397,Lake Pam,94683
+en_US,398,Lake Paulamouth,38061
+en_US,399,Lake Peter,49843
+en_US,400,Lake Robert,19529
+en_US,401,Lake Stacy,03998
+en_US,402,Lake Stacyhaven,57321
+en_US,403,Lake Stephanie,81769
+en_US,404,Lake Stephenstad,62837
+en_US,405,Lake Sue,70562
+en_US,406,Lake Tamara,70657
+en_US,407,Lake Tanya,35644
+en_US,408,Lake Theresa,95456
+en_US,409,Lake Thomas,81061
+en_US,410,Lake Victoria,06791
+en_US,411,Lake Wesleymouth,85236
+en_US,412,Lawrenceberg,20543
+en_US,413,Lawsonstad,72163
+en_US,414,Leahville,87147
+en_US,415,Leslieshire,02987
+en_US,416,Lestershire,21249
+en_US,417,Levineshire,84643
+en_US,418,Lindseymouth,05530
+en_US,419,Lisaside,69900
+en_US,420,Liuchester,87214
+en_US,421,Livingstonport,15599
+en_US,422,Lopezbury,59133
+en_US,423,Mandyview,43362
+en_US,424,Marcusville,82977
+en_US,425,Margaretmouth,81824
+en_US,426,Markhaven,42814
+en_US,427,Marshallhaven,59576
+en_US,428,Martinezstad,54768
+en_US,429,Marvinhaven,59322
+en_US,430,Maryberg,08223
+en_US,431,Maryburgh,35125
+en_US,432,Marybury,35475
+en_US,433,Matthewstad,70433
+en_US,434,Matthewville,08073
+en_US,435,Maxwellland,63720
+en_US,436,Mayerstad,87632
+en_US,437,Mcintyreshire,45860
+en_US,438,Meganland,14513
+en_US,439,Meganville,57759
+en_US,440,Melaniefort,04929
+en_US,441,Melaniemouth,69259
+en_US,442,Melindaton,71315
+en_US,443,Melissafort,86891
+en_US,444,Melissamouth,46093
+en_US,445,Melissamouth,98137
+en_US,446,Melissaside,99186
+en_US,447,Melissatown,94639
+en_US,448,Mendezfort,36671
+en_US,449,Meredithburgh,96741
+en_US,450,Miabury,44725
+en_US,451,Michaelborough,81997
+en_US,452,Michaelburgh,98145
+en_US,453,Michaelbury,20236
+en_US,454,Michaelchester,04464
+en_US,455,Michaelfort,96015
+en_US,456,Michaelmouth,78527
+en_US,457,Michaelshire,66919
+en_US,458,Michaelshire,67144
+en_US,459,Micheleburgh,37981
+en_US,460,Michelleberg,09407
+en_US,461,Michelleville,76744
+en_US,462,Millerfurt,53306
+en_US,463,Millerville,45656
+en_US,464,Mitchellberg,24667
+en_US,465,Mooreborough,60116
+en_US,466,Moorefort,99510
+en_US,467,Mooreshire,44987
+en_US,468,Morganburgh,66252
+en_US,469,Morrisview,78043
+en_US,470,Morrowland,69211
+en_US,471,Mortonburgh,48299
+en_US,472,Mullinsbury,03140
+en_US,473,Murphymouth,26183
+en_US,474,Murraybury,88765
+en_US,475,Myersborough,14479
+en_US,476,Nancyberg,19005
+en_US,477,New Aliciaport,59771
+en_US,478,New Amystad,05898
+en_US,479,New Andrea,16855
+en_US,480,New Anna,04044
+en_US,481,New Barbara,31099
+en_US,482,New Becky,87382
+en_US,483,New Benjaminhaven,94891
+en_US,484,New Benjamintown,74191
+en_US,485,New Brandonton,49719
+en_US,486,New Brandy,69595
+en_US,487,New Brittanytown,76228
+en_US,488,New Christine,29032
+en_US,489,New Christopher,27862
+en_US,490,New Christopher,68617
+en_US,491,New Christopherburgh,06266
+en_US,492,New Crystal,42889
+en_US,493,New Daniel,33261
+en_US,494,New Denise,82271
+en_US,495,New Deniseside,55452
+en_US,496,New Destiny,96282
+en_US,497,New Dustin,96937
+en_US,498,New Ericfurt,94308
+en_US,499,New Garyberg,52342
+en_US,500,New Heather,79161
+en_US,501,New Jacqueline,80770
+en_US,502,New Jamesfort,70423
+en_US,503,New Jared,02858
+en_US,504,New Jasmine,34934
+en_US,505,New Jennifer,36117
+en_US,506,New Jessica,13815
+en_US,507,New Jonathanburgh,35496
+en_US,508,New Jonathanside,24174
+en_US,509,New Jonathantown,63475
+en_US,510,New Jose,04066
+en_US,511,New Joseberg,19963
+en_US,512,New Joshuaburgh,09743
+en_US,513,New Joshuafurt,86343
+en_US,514,New Juanstad,77425
+en_US,515,New Karlaton,87912
+en_US,516,New Kevin,11551
+en_US,517,New Kristinbury,45562
+en_US,518,New Lindachester,03141
+en_US,519,New Lisaton,91782
+en_US,520,New Mary,44594
+en_US,521,New Mary,68050
+en_US,522,New Matthewmouth,13084
+en_US,523,New Melissa,27237
+en_US,524,New Melissamouth,41778
+en_US,525,New Pamelaborough,57721
+en_US,526,New Peter,78659
+en_US,527,New Rachaelview,24971
+en_US,528,New Richard,68165
+en_US,529,New Richardport,15714
+en_US,530,New Roberthaven,28170
+en_US,531,New Robinstad,60286
+en_US,532,New Ronald,92770
+en_US,533,New Rose,63203
+en_US,534,New Sharonborough,92084
+en_US,535,New Stacy,59466
+en_US,536,New Tammy,30865
+en_US,537,New Tammy,86645
+en_US,538,New Tarafort,61355
+en_US,539,New Terry,59582
+en_US,540,New Thomas,91603
+en_US,541,New Tina,53061
+en_US,542,New Tylerchester,02967
+en_US,543,New Valerieville,95696
+en_US,544,New Victoriachester,16383
+en_US,545,Newmanville,91157
+en_US,546,Nicholashaven,26302
+en_US,547,Nicholsonberg,06729
+en_US,548,Nobletown,21125
+en_US,549,Normanmouth,76163
+en_US,550,Normanport,96174
+en_US,551,Normaport,47926
+en_US,552,North Alexanderland,42349
+en_US,553,North Amandatown,17021
+en_US,554,North Amber,63971
+en_US,555,North Antonioshire,01008
+en_US,556,North Barbarachester,14738
+en_US,557,North Barry,81263
+en_US,558,North Bradleyburgh,78807
+en_US,559,North Cheryl,99307
+en_US,560,North Cherylfurt,42606
+en_US,561,North Connor,04484
+en_US,562,North Cynthia,49364
+en_US,563,North David,72040
+en_US,564,North Dawnberg,91281
+en_US,565,North Deborahburgh,52937
+en_US,566,North Diamondport,08434
+en_US,567,North Donnaside,28707
+en_US,568,North Dorothystad,29338
+en_US,569,North Elizabeth,26777
+en_US,570,North Ericview,62924
+en_US,571,North George,74903
+en_US,572,North Jason,92850
+en_US,573,North Jennifer,88001
+en_US,574,North Jennifermouth,05022
+en_US,575,North Jessica,73130
+en_US,576,North Joan,91705
+en_US,577,North John,38936
+en_US,578,North John,49241
+en_US,579,North John,54522
+en_US,580,North Jonathan,69138
+en_US,581,North Julie,87986
+en_US,582,North Justin,33222
+en_US,583,North Karen,49690
+en_US,584,North Katrinaberg,72628
+en_US,585,North Keithside,49894
+en_US,586,North Kendra,60591
+en_US,587,North Kenneth,47255
+en_US,588,North Kristi,65638
+en_US,589,North Lee,91597
+en_US,590,North Linda,33737
+en_US,591,North Linda,36539
+en_US,592,North Lindsay,55914
+en_US,593,North Lisa,71654
+en_US,594,North Mandymouth,09175
+en_US,595,North Marcus,92510
+en_US,596,North Marcusstad,85114
+en_US,597,North Maria,04759
+en_US,598,North Mark,16631
+en_US,599,North Melanie,13662
+en_US,600,North Misty,11189
+en_US,601,North Nicholasfort,31550
+en_US,602,North Patrickview,50554
+en_US,603,North Rebecca,44339
+en_US,604,North Rodney,46146
+en_US,605,North Samantha,18944
+en_US,606,North Samantha,85262
+en_US,607,North Shelby,02040
+en_US,608,North Sue,67059
+en_US,609,North Tony,98818
+en_US,610,North Williamton,43489
+en_US,611,Nunezmouth,24513
+en_US,612,Ortizport,97762
+en_US,613,Owenmouth,43356
+en_US,614,Parkborough,83636
+en_US,615,Parkchester,04562
+en_US,616,Parkerhaven,68626
+en_US,617,Parkerside,07049
+en_US,618,Parkerview,42686
+en_US,619,Patrickbury,76053
+en_US,620,Paulberg,35136
+en_US,621,Paulfort,21463
+en_US,622,Pearsonview,23663
+en_US,623,Peggyland,91014
+en_US,624,Penafurt,78131
+en_US,625,Perezside,44002
+en_US,626,Perkinsborough,62950
+en_US,627,Peterbury,91283
+en_US,628,Peterfort,28536
+en_US,629,Petermouth,83620
+en_US,630,Petersonstad,48430
+en_US,631,Philipchester,91133
+en_US,632,Phillipbury,34348
+en_US,633,Port Aaronborough,92475
+en_US,634,Port Adamborough,09486
+en_US,635,Port Alexa,40796
+en_US,636,Port Alexanderfurt,86875
+en_US,637,Port Alexanderland,60053
+en_US,638,Port Alice,75773
+en_US,639,Port Aliciahaven,55130
+en_US,640,Port Aliciastad,94591
+en_US,641,Port Ariel,27088
+en_US,642,Port Ashleyview,05854
+en_US,643,Port Billyview,75841
+en_US,644,Port Bradley,44156
+en_US,645,Port Brandon,96346
+en_US,646,Port Brittanyside,59748
+en_US,647,Port Carol,91856
+en_US,648,Port Christopher,07085
+en_US,649,Port Christopher,93401
+en_US,650,Port Christopher,97310
+en_US,651,Port Clifford,73048
+en_US,652,Port Danielside,24878
+en_US,653,Port David,92936
+en_US,654,Port Eddiefurt,42181
+en_US,655,Port Georgeland,43349
+en_US,656,Port Heather,47236
+en_US,657,Port Hector,40915
+en_US,658,Port James,25079
+en_US,659,Port James,74821
+en_US,660,Port Jasonstad,69299
+en_US,661,Port Jefftown,39174
+en_US,662,Port John,15217
+en_US,663,Port John,96769
+en_US,664,Port Johnhaven,22473
+en_US,665,Port Jonathan,18704
+en_US,666,Port Jonathanview,75915
+en_US,667,Port Jorge,17631
+en_US,668,Port Joshua,54842
+en_US,669,Port Joshuaton,30002
+en_US,670,Port Justinberg,66668
+en_US,671,Port Kaylee,21699
+en_US,672,Port Kelly,32575
+en_US,673,Port Kristi,31797
+en_US,674,Port Larryfurt,13530
+en_US,675,Port Laura,55378
+en_US,676,Port Lindatown,06386
+en_US,677,Port Marcport,87833
+en_US,678,Port Margaret,31292
+en_US,679,Port Marktown,90077
+en_US,680,Port Mary,25734
+en_US,681,Port Melissa,11562
+en_US,682,Port Melissa,64982
+en_US,683,Port Melissabury,01685
+en_US,684,Port Melissahaven,80607
+en_US,685,Port Michele,71292
+en_US,686,Port Michelleberg,29173
+en_US,687,Port Monique,47332
+en_US,688,Port Nancy,44369
+en_US,689,Port Patrick,75604
+en_US,690,Port Rachael,32906
+en_US,691,Port Ricardoberg,61283
+en_US,692,Port Richardtown,75356
+en_US,693,Port Robert,48946
+en_US,694,Port Robert,58352
+en_US,695,Port Robert,91538
+en_US,696,Port Ronaldmouth,84466
+en_US,697,Port Samantha,35818
+en_US,698,Port Samantha,78337
+en_US,699,Port Scott,84235
+en_US,700,Port Shane,97481
+en_US,701,Port Sheilafurt,32685
+en_US,702,Port Stacy,11967
+en_US,703,Port Stacyside,37301
+en_US,704,Port Steventown,66846
+en_US,705,Port Susantown,44219
+en_US,706,Port Tammy,56573
+en_US,707,Port Terri,90521
+en_US,708,Port Tyler,06481
+en_US,709,Port Tyler,89555
+en_US,710,Port Wanda,81374
+en_US,711,Port Wendyburgh,74251
+en_US,712,Port Wendybury,52527
+en_US,713,Port Willie,24915
+en_US,714,Port Zachary,95260
+en_US,715,Princestad,12435
+en_US,716,Ramirezhaven,68048
+en_US,717,Ramirezmouth,73458
+en_US,718,Ramosburgh,82728
+en_US,719,Reidborough,74137
+en_US,720,Reneestad,68259
+en_US,721,Reynoldsberg,24340
+en_US,722,Richardsberg,35960
+en_US,723,Richardsonmouth,72137
+en_US,724,Richbury,25549
+en_US,725,Rileyfort,39306
+en_US,726,Rileytown,47207
+en_US,727,Riveraville,65827
+en_US,728,Robertoport,76178
+en_US,729,Robertsfurt,13984
+en_US,730,Robinsonshire,43508
+en_US,731,Rodneyview,77736
+en_US,732,Rodriguezborough,93179
+en_US,733,Rogersport,58848
+en_US,734,Rojasborough,57614
+en_US,735,Rojasstad,17630
+en_US,736,Romerochester,92654
+en_US,737,Ronaldstad,83184
+en_US,738,Rosaleschester,52009
+en_US,739,Rossfurt,21909
+en_US,740,Rowlandberg,89532
+en_US,741,Roymouth,36704
+en_US,742,Russellborough,87590
+en_US,743,Salasbury,28896
+en_US,744,Samanthahaven,99508
+en_US,745,Samuelfort,78732
+en_US,746,Santosmouth,87956
+en_US,747,Sarahfort,96079
+en_US,748,Sarahside,93300
+en_US,749,Sarahstad,14878
+en_US,750,Sarahstad,20503
+en_US,751,Scottshire,82698
+en_US,752,Scottview,64925
+en_US,753,Serranoside,13004
+en_US,754,Shannonhaven,30886
+en_US,755,Shannonville,38201
+en_US,756,Sharonland,31743
+en_US,757,Shawnfort,44749
+en_US,758,Sheilaland,67980
+en_US,759,Sheilatown,17806
+en_US,760,Shellychester,81287
+en_US,761,Sheribury,86161
+en_US,762,Sierraland,00676
+en_US,763,Singletonshire,00509
+en_US,764,Smithborough,17135
+en_US,765,Smithhaven,25508
+en_US,766,Smithmouth,87354
+en_US,767,Smithstad,48777
+en_US,768,Smithtown,15448
+en_US,769,Smithview,44897
+en_US,770,South Aaron,42373
+en_US,771,South Amymouth,27171
+en_US,772,South Annabury,17970
+en_US,773,South Bailey,20037
+en_US,774,South Benjamin,56982
+en_US,775,South Brandonhaven,02188
+en_US,776,South Brian,46892
+en_US,777,South Brian,58058
+en_US,778,South Briantown,65211
+en_US,779,South Bryanchester,19131
+en_US,780,South Candiceberg,34015
+en_US,781,South Caseyfurt,17901
+en_US,782,South Charles,61520
+en_US,783,South Christinaview,99658
+en_US,784,South Christine,18587
+en_US,785,South Christine,20749
+en_US,786,South Codyport,76564
+en_US,787,South Craigshire,69684
+en_US,788,South David,51426
+en_US,789,South Davidmouth,20848
+en_US,790,South Derekmouth,71461
+en_US,791,South Derrickport,09192
+en_US,792,South Dominique,38449
+en_US,793,South Ericland,74264
+en_US,794,South Erinside,94100
+en_US,795,South Ethan,71634
+en_US,796,South Helen,95345
+en_US,797,South Henry,55278
+en_US,798,South Hollyport,93721
+en_US,799,South James,29189
+en_US,800,South James,52931
+en_US,801,South Jamesfort,32663
+en_US,802,South Jameston,83142
+en_US,803,South Jason,60927
+en_US,804,South Joannabury,36698
+en_US,805,South Johntown,20370
+en_US,806,South Joseph,64203
+en_US,807,South Joshua,60467
+en_US,808,South Juliechester,79241
+en_US,809,South Karen,27583
+en_US,810,South Kevin,61789
+en_US,811,South Melanie,37251
+en_US,812,South Michaelchester,97738
+en_US,813,South Natashahaven,59594
+en_US,814,South Nicole,25023
+en_US,815,South Patrick,80310
+en_US,816,South Patty,64142
+en_US,817,South Rebeccaview,49007
+en_US,818,South Richardside,13623
+en_US,819,South Robert,64336
+en_US,820,South Robert,96316
+en_US,821,South Roberta,74404
+en_US,822,South Roberthaven,18089
+en_US,823,South Roberto,44476
+en_US,824,South Robertside,13115
+en_US,825,South Roseburgh,47953
+en_US,826,South Samantha,90459
+en_US,827,South Sandrashire,51795
+en_US,828,South Sara,76004
+en_US,829,South Shaneshire,27360
+en_US,830,South Spencer,12862
+en_US,831,South Stephanie,46478
+en_US,832,South Stephanie,81844
+en_US,833,South Stephanieside,60806
+en_US,834,South Teresaville,26828
+en_US,835,South Theresaville,67415
+en_US,836,South Thomaschester,63848
+en_US,837,South Tiffany,64160
+en_US,838,South Tiffany,89820
+en_US,839,South Timothy,65726
+en_US,840,South Tinaton,58399
+en_US,841,South Traceyfort,50640
+en_US,842,South Valerie,61359
+en_US,843,South William,37211
+en_US,844,South William,85280
+en_US,845,Stacyburgh,41190
+en_US,846,Stanleychester,86247
+en_US,847,Stephaniechester,63106
+en_US,848,Stephaniemouth,19371
+en_US,849,Stephaniestad,52140
+en_US,850,Stevenburgh,52288
+en_US,851,Stevenfort,71429
+en_US,852,Stevenport,96474
+en_US,853,Stevenshire,11128
+en_US,854,Suarezmouth,72531
+en_US,855,Sullivanside,81109
+en_US,856,Susanberg,63054
+en_US,857,Susanview,30865
+en_US,858,Suzanneton,97842
+en_US,859,Sydneyshire,38389
+en_US,860,Taylorchester,30379
+en_US,861,Taylorfort,41005
+en_US,862,Taylorfurt,35511
+en_US,863,Taylorport,03599
+en_US,864,Taylorton,98478
+en_US,865,Taylortown,12279
+en_US,866,Theresaberg,71940
+en_US,867,Thomasberg,92160
+en_US,868,Thomasborough,51675
+en_US,869,Thomasborough,56539
+en_US,870,Thomasburgh,33214
+en_US,871,Thomasfurt,10934
+en_US,872,Thompsonchester,02002
+en_US,873,Thompsonmouth,58083
+en_US,874,Thompsonville,96639
+en_US,875,Thorntonberg,12253
+en_US,876,Timothychester,15614
+en_US,877,Torresville,92820
+en_US,878,Tracytown,66397
+en_US,879,Travisland,36881
+en_US,880,Trevormouth,45147
+en_US,881,Troybury,03247
+en_US,882,Turnerfort,40927
+en_US,883,Underwoodfurt,06811
+en_US,884,Valenzuelamouth,87579
+en_US,885,Vancefort,63535
+en_US,886,Vanessafurt,36975
+en_US,887,Vargasborough,49792
+en_US,888,Vasquezside,21638
+en_US,889,Vazquezburgh,24505
+en_US,890,Velazquezhaven,61291
+en_US,891,Villarrealfurt,54056
+en_US,892,Wadeton,98205
+en_US,893,Wagnershire,82996
+en_US,894,Walkerton,30483
+en_US,895,Watersborough,61067
+en_US,896,Watkinsland,61438
+en_US,897,Watsonshire,64636
+en_US,898,Wayneland,52125
+en_US,899,West Anastad,42577
+en_US,900,West Andrewborough,40303
+en_US,901,West Andrewland,43306
+en_US,902,West Angela,76303
+en_US,903,West Annaside,67135
+en_US,904,West Anthonyberg,12265
+en_US,905,West Blake,30748
+en_US,906,West Brooke,12474
+en_US,907,West Cameron,61082
+en_US,908,West Casey,19604
+en_US,909,West Charles,61793
+en_US,910,West Cherylview,97302
+en_US,911,West Christopherberg,18179
+en_US,912,West Christophermouth,26117
+en_US,913,West Christophershire,58857
+en_US,914,West Clayton,98332
+en_US,915,West Clinton,84952
+en_US,916,West Cynthiastad,71536
+en_US,917,West David,05427
+en_US,918,West Debra,67407
+en_US,919,West Dennisside,61739
+en_US,920,West Dylan,46881
+en_US,921,West Emilyborough,43846
+en_US,922,West Eric,52376
+en_US,923,West Greggport,78414
+en_US,924,West Gregoryland,96305
+en_US,925,West Hannahfurt,56485
+en_US,926,West Henryview,05209
+en_US,927,West Jack,69708
+en_US,928,West James,43203
+en_US,929,West Jamesborough,36964
+en_US,930,West Jameshaven,22374
+en_US,931,West Jamesport,50164
+en_US,932,West Jefferystad,47472
+en_US,933,West Jennifer,11905
+en_US,934,West Jessicaborough,51749
+en_US,935,West Jessicafurt,72205
+en_US,936,West Jessicashire,24794
+en_US,937,West John,46249
+en_US,938,West Johnside,26315
+en_US,939,West Joseshire,89189
+en_US,940,West Justin,26456
+en_US,941,West Kara,81138
+en_US,942,West Karen,62291
+en_US,943,West Katherine,96423
+en_US,944,West Kenneth,63214
+en_US,945,West Kimberlyburgh,51536
+en_US,946,West Kirkside,81564
+en_US,947,West Kristinetown,31471
+en_US,948,West Lisafurt,82597
+en_US,949,West Lorishire,06506
+en_US,950,West Martin,71556
+en_US,951,West Mary,14755
+en_US,952,West Mary,52136
+en_US,953,West Matthewside,77976
+en_US,954,West Matthewstad,55600
+en_US,955,West Meganview,66218
+en_US,956,West Meghanfurt,56122
+en_US,957,West Melvin,16474
+en_US,958,West Michealchester,23074
+en_US,959,West Moniqueshire,91935
+en_US,960,West Nicholasberg,92498
+en_US,961,West Nicholeton,75246
+en_US,962,West Nicole,24609
+en_US,963,West Paul,03005
+en_US,964,West Paulport,32774
+en_US,965,West Peggy,77195
+en_US,966,West Rebeccachester,84039
+en_US,967,West Rebekah,80737
+en_US,968,West Reginahaven,91496
+en_US,969,West Richard,69384
+en_US,970,West Stephen,84237
+en_US,971,West Stevenburgh,48503
+en_US,972,West Susan,46317
+en_US,973,West Susanport,01696
+en_US,974,West Sylvia,41797
+en_US,975,West Taraville,67008
+en_US,976,West Timothy,30729
+en_US,977,West Toddburgh,29808
+en_US,978,West Tracyton,01894
+en_US,979,West Veronica,19612
+en_US,980,West Vincent,57238
+en_US,981,West Waynemouth,11104
+en_US,982,West Wendy,21832
+en_US,983,Westtown,20307
+en_US,984,Whitakerton,40371
+en_US,985,Williamburgh,32117
+en_US,986,Williamfort,67391
+en_US,987,Williamsbury,14097
+en_US,988,Williamshaven,98516
+en_US,989,Williamston,35391
+en_US,990,Williamsview,53776
+en_US,991,Williamtown,51652
+en_US,992,Willieland,55904
+en_US,993,Willisburgh,08277
+en_US,994,Willisbury,60089
+en_US,995,Willisfurt,42725
+en_US,996,Wilsonside,61008
+en_US,997,Wintersfurt,42893
+en_US,998,Wrightfurt,45353
+en_US,999,Yvetteburgh,60920
+en_US,1000,Zacharymouth,66372
+de_DE,1,Aachen,32214
+de_DE,2,Aachen,51613
+de_DE,3,Aachen,86455
+de_DE,4,Altentreptow,14493
+de_DE,5,Altentreptow,44231
+de_DE,6,Altentreptow,49628
+de_DE,7,Altentreptow,95915
+de_DE,8,Altentreptow,96433
+de_DE,9,Altötting,97673
+de_DE,10,Amberg,13649
+de_DE,11,Amberg,63053
+de_DE,12,Angermünde,11494
+de_DE,13,Angermünde,23244
+de_DE,14,Angermünde,24450
+de_DE,15,Angermünde,93981
+de_DE,16,Anklam,09445
+de_DE,17,Anklam,21116
+de_DE,18,Anklam,45049
+de_DE,19,Ansbach,28379
+de_DE,20,Ansbach,42375
+de_DE,21,Ansbach,57204
+de_DE,22,Ansbach,92784
+de_DE,23,Apolda,71460
+de_DE,24,Apolda,84844
+de_DE,25,Apolda,91031
+de_DE,26,Arnstadt,63515
+de_DE,27,Artern,08807
+de_DE,28,Artern,82192
+de_DE,29,Artern,94164
+de_DE,30,Aschaffenburg,10291
+de_DE,31,Aue,19977
+de_DE,32,Aue,23122
+de_DE,33,Aue,39016
+de_DE,34,Aue,54559
+de_DE,35,Auerbach,79192
+de_DE,36,Backnang,90282
+de_DE,37,Bad Brückenau,19032
+de_DE,38,Bad Brückenau,21921
+de_DE,39,Bad Brückenau,58882
+de_DE,40,Bad Brückenau,65403
+de_DE,41,Bad Brückenau,80375
+de_DE,42,Bad Brückenau,92152
+de_DE,43,Bad Freienwalde,63805
+de_DE,44,Bad Kissingen,17171
+de_DE,45,Bad Kissingen,52743
+de_DE,46,Bad Kissingen,75595
+de_DE,47,Bad Kreuznach,30405
+de_DE,48,Bad Kreuznach,31352
+de_DE,49,Bad Kreuznach,77924
+de_DE,50,Bad Langensalza,03091
+de_DE,51,Bad Liebenwerda,24408
+de_DE,52,Bad Liebenwerda,37420
+de_DE,53,Bad Liebenwerda,55900
+de_DE,54,Bad Mergentheim,28714
+de_DE,55,Bad Mergentheim,81654
+de_DE,56,Badalzungen,72402
+de_DE,57,Badalzungen,85124
+de_DE,58,Badibling,44893
+de_DE,59,Badoberan,28435
+de_DE,60,Badoberan,58550
+de_DE,61,Badoberan,60055
+de_DE,62,Bamberg,20085
+de_DE,63,Bamberg,34368
+de_DE,64,Bamberg,40802
+de_DE,65,Bamberg,49051
+de_DE,66,Bamberg,54503
+de_DE,67,Bamberg,75565
+de_DE,68,Bautzen,46606
+de_DE,69,Bautzen,62836
+de_DE,70,Bayreuth,43438
+de_DE,71,Bayreuth,47466
+de_DE,72,Bayreuth,80081
+de_DE,73,Beeskow,32928
+de_DE,74,Beeskow,55431
+de_DE,75,Beeskow,61364
+de_DE,76,Beilngries,48819
+de_DE,77,Beilngries,84509
+de_DE,78,Belzig,00384
+de_DE,79,Belzig,68924
+de_DE,80,Belzig,85994
+de_DE,81,Belzig,96019
+de_DE,82,Berchtesgaden,49230
+de_DE,83,Berchtesgaden,56080
+de_DE,84,Berchtesgaden,64636
+de_DE,85,Bergzabern,35904
+de_DE,86,Berlin,30184
+de_DE,87,Berlin,38008
+de_DE,88,Berlin,53568
+de_DE,89,Berlin,54614
+de_DE,90,Berlin,68473
+de_DE,91,Berlin,75024
+de_DE,92,Bernburg,24202
+de_DE,93,Bersenbrück,74137
+de_DE,94,Biedenkopf,29976
+de_DE,95,Biedenkopf,72652
+de_DE,96,Bischofswerda,13130
+de_DE,97,Bischofswerda,21972
+de_DE,98,Bischofswerda,70251
+de_DE,99,Bischofswerda,78992
+de_DE,100,Bitterfeld,15638
+de_DE,101,Bogen,22852
+de_DE,102,Bogen,33050
+de_DE,103,Bogen,34323
+de_DE,104,Bogen,35610
+de_DE,105,Bogen,72440
+de_DE,106,Bogen,91622
+de_DE,107,Bogen,96943
+de_DE,108,Borken,18116
+de_DE,109,Borken,36433
+de_DE,110,Borken,59700
+de_DE,111,Borken,62485
+de_DE,112,Borna,31924
+de_DE,113,Borna,46782
+de_DE,114,Borna,97973
+de_DE,115,Brand,86504
+de_DE,116,Brandenburg,25777
+de_DE,117,Brandenburg,35369
+de_DE,118,Brandenburg,46265
+de_DE,119,Brandenburg,76481
+de_DE,120,Bremen,09702
+de_DE,121,Bremen,16969
+de_DE,122,Bremen,83716
+de_DE,123,Bremervörde,99228
+de_DE,124,Brilon,07087
+de_DE,125,Brilon,30843
+de_DE,126,Brilon,77633
+de_DE,127,Brilon,78456
+de_DE,128,Brilon,82991
+de_DE,129,Brilon,91330
+de_DE,130,Bruchsal,83751
+de_DE,131,Bruchsal,92938
+de_DE,132,Bruchsal,98444
+de_DE,133,Burg,41879
+de_DE,134,Burg,43551
+de_DE,135,Burg,65525
+de_DE,136,Burgdorf,10513
+de_DE,137,Burgdorf,18765
+de_DE,138,Burglengenfeld,58992
+de_DE,139,Burglengenfeld,84791
+de_DE,140,Böblingen,00329
+de_DE,141,Büsingen am Hochrhein,33769
+de_DE,142,Büsingen am Hochrhein,70261
+de_DE,143,Büsingen am Hochrhein,96955
+de_DE,144,Bützow,36170
+de_DE,145,Bützow,68257
+de_DE,146,Calau,21860
+de_DE,147,Calw,02420
+de_DE,148,Celle,04240
+de_DE,149,Chemnitz,51429
+de_DE,150,Chemnitz,53280
+de_DE,151,Chemnitz,67496
+de_DE,152,Chemnitz,85238
+de_DE,153,Coburg,77505
+de_DE,154,Cottbus,02721
+de_DE,155,Cottbus,41024
+de_DE,156,Crailsheim,20793
+de_DE,157,Crailsheim,26635
+de_DE,158,Crailsheim,29549
+de_DE,159,Cuxhaven,51303
+de_DE,160,Dachau,21475
+de_DE,161,Dachau,39315
+de_DE,162,Darmstadt,04359
+de_DE,163,Darmstadt,49470
+de_DE,164,Darmstadt,50613
+de_DE,165,Darmstadt,89229
+de_DE,166,Deggendorf,88923
+de_DE,167,Deggendorf,94059
+de_DE,168,Delitzsch,12402
+de_DE,169,Delitzsch,20408
+de_DE,170,Delitzsch,34867
+de_DE,171,Delitzsch,38867
+de_DE,172,Delitzsch,54882
+de_DE,173,Demmin,33197
+de_DE,174,Demmin,41634
+de_DE,175,Demmin,80673
+de_DE,176,Dessau,65693
+de_DE,177,Dessau,66067
+de_DE,178,Dessau,91853
+de_DE,179,Dieburg,01728
+de_DE,180,Dieburg,30480
+de_DE,181,Dieburg,64413
+de_DE,182,Diepholz,08284
+de_DE,183,Diepholz,18052
+de_DE,184,Diepholz,30126
+de_DE,185,Diepholz,81949
+de_DE,186,Diepholz,83160
+de_DE,187,Dinkelsbühl,72906
+de_DE,188,Dinkelsbühl,94427
+de_DE,189,Dinslaken,32101
+de_DE,190,Dinslaken,35330
+de_DE,191,Donaueschingen,36299
+de_DE,192,Dresden,53225
+de_DE,193,Duderstadt,52225
+de_DE,194,Duderstadt,67834
+de_DE,195,Döbeln,09522
+de_DE,196,Döbeln,50211
+de_DE,197,Döbeln,80982
+de_DE,198,Döbeln,94014
+de_DE,199,Düren,68880
+de_DE,200,Ebermannstadt,38627
+de_DE,201,Ebermannstadt,89111
+de_DE,202,Ebermannstadt,95450
+de_DE,203,Ebern,23121
+de_DE,204,Ebern,37894
+de_DE,205,Ebersberg,43284
+de_DE,206,Ebersberg,85987
+de_DE,207,Eberswalde,21169
+de_DE,208,Eberswalde,80973
+de_DE,209,Eckernförde,36786
+de_DE,210,Eggenfelden,38538
+de_DE,211,Eichstätt,48216
+de_DE,212,Eichstätt,50384
+de_DE,213,Eichstätt,63679
+de_DE,214,Eilenburg,30977
+de_DE,215,Eilenburg,36461
+de_DE,216,Eilenburg,44770
+de_DE,217,Eilenburg,63127
+de_DE,218,Eilenburg,96247
+de_DE,219,Einbeck,32141
+de_DE,220,Einbeck,77990
+de_DE,221,Einbeck,97990
+de_DE,222,Eisenach,07473
+de_DE,223,Eisenach,60396
+de_DE,224,Eisenach,63297
+de_DE,225,Eisenach,94448
+de_DE,226,Eisenhüttenstadt,21032
+de_DE,227,Eisenhüttenstadt,75368
+de_DE,228,Eisenhüttenstadt,87982
+de_DE,229,Eisleben,42965
+de_DE,230,Emmendingen,62518
+de_DE,231,Erding,18909
+de_DE,232,Erding,87184
+de_DE,233,Erding,89861
+de_DE,234,Erding,99280
+de_DE,235,Erfurt,68499
+de_DE,236,Erkelenz,28135
+de_DE,237,Erkelenz,38634
+de_DE,238,Erkelenz,43533
+de_DE,239,Erkelenz,54492
+de_DE,240,Erkelenz,56650
+de_DE,241,Erkelenz,70269
+de_DE,242,Erkelenz,89876
+de_DE,243,Euskirchen,13136
+de_DE,244,Euskirchen,28367
+de_DE,245,Euskirchen,84481
+de_DE,246,Eutin,21219
+de_DE,247,Eutin,25578
+de_DE,248,Eutin,82081
+de_DE,249,Fallingbostel,46557
+de_DE,250,Fallingbostel,92034
+de_DE,251,Fallingbostel,93996
+de_DE,252,Feuchtwangen,00272
+de_DE,253,Feuchtwangen,09353
+de_DE,254,Feuchtwangen,20938
+de_DE,255,Feuchtwangen,75296
+de_DE,256,Finsterwalde,55167
+de_DE,257,Finsterwalde,88032
+de_DE,258,Flöha,14521
+de_DE,259,Flöha,40241
+de_DE,260,Flöha,46292
+de_DE,261,Flöha,87186
+de_DE,262,Forchheim,75618
+de_DE,263,Forchheim,86601
+de_DE,264,Forchheim,87686
+de_DE,265,Forst,87700
+de_DE,266,Forst,89934
+de_DE,267,Forst,95246
+de_DE,268,Freital,36157
+de_DE,269,Freital,44890
+de_DE,270,Freital,58491
+de_DE,271,Freudenstadt,52442
+de_DE,272,Freudenstadt,58483
+de_DE,273,Fulda,19931
+de_DE,274,Fürstenfeldbruck,75053
+de_DE,275,Fürstenfeldbruck,97150
+de_DE,276,Fürstenwalde,30551
+de_DE,277,Fürstenwalde,66486
+de_DE,278,Füssen,00806
+de_DE,279,Füssen,09299
+de_DE,280,Füssen,66922
+de_DE,281,Gadebusch,59974
+de_DE,282,Gadebusch,82789
+de_DE,283,Gardelegen,02474
+de_DE,284,Gardelegen,90329
+de_DE,285,Geithain,71428
+de_DE,286,Geldern,14524
+de_DE,287,Geldern,20214
+de_DE,288,Gelnhausen,36905
+de_DE,289,Gelnhausen,91476
+de_DE,290,Gelnhausen,93480
+de_DE,291,Genthin,93628
+de_DE,292,Gera,19058
+de_DE,293,Gera,75698
+de_DE,294,Gera,85753
+de_DE,295,Germersheim,44989
+de_DE,296,Germersheim,74480
+de_DE,297,Germersheim,81246
+de_DE,298,Gerolzhofen,22070
+de_DE,299,Gerolzhofen,40826
+de_DE,300,Gießen,26360
+de_DE,301,Gießen,31549
+de_DE,302,Gießen,57534
+de_DE,303,Gifhorn,02839
+de_DE,304,Gifhorn,96299
+de_DE,305,Goslar,71540
+de_DE,306,Gotha,10416
+de_DE,307,Gotha,10912
+de_DE,308,Gotha,42176
+de_DE,309,Gotha,88730
+de_DE,310,Grafenau,69870
+de_DE,311,Grafenau,80676
+de_DE,312,Gransee,21090
+de_DE,313,Gransee,29885
+de_DE,314,Gransee,61381
+de_DE,315,Greifswald,18166
+de_DE,316,Greiz,49187
+de_DE,317,Grevenbroich,22020
+de_DE,318,Grevenbroich,27983
+de_DE,319,Grevenbroich,87371
+de_DE,320,Grevesmühlen,33869
+de_DE,321,Grevesmühlen,34936
+de_DE,322,Griesbach Rottal,27027
+de_DE,323,Griesbach Rottal,52263
+de_DE,324,Griesbach Rottal,79037
+de_DE,325,Grimma,06403
+de_DE,326,Grimma,15388
+de_DE,327,Grimma,53147
+de_DE,328,Grimma,73012
+de_DE,329,Grimma,79504
+de_DE,330,Grimma,87043
+de_DE,331,Grimmen,58635
+de_DE,332,Grimmen,74102
+de_DE,333,Groß-Gerau,41996
+de_DE,334,Groß-Gerau,42216
+de_DE,335,Groß-Gerau,51586
+de_DE,336,Groß-Gerau,52470
+de_DE,337,Groß-Gerau,79581
+de_DE,338,Großenhain,09737
+de_DE,339,Großenhain,23149
+de_DE,340,Großenhain,57100
+de_DE,341,Großenhain,87533
+de_DE,342,Gräfenhainichen,54591
+de_DE,343,Gräfenhainichen,63173
+de_DE,344,Gräfenhainichen,89066
+de_DE,345,Guben,03306
+de_DE,346,Guben,55884
+de_DE,347,Gunzenhausen,32942
+de_DE,348,Göppingen,40859
+de_DE,349,Göppingen,43651
+de_DE,350,Göppingen,84082
+de_DE,351,Göppingen,87143
+de_DE,352,Görlitz,15316
+de_DE,353,Görlitz,16073
+de_DE,354,Görlitz,20969
+de_DE,355,Görlitz,45885
+de_DE,356,Görlitz,65923
+de_DE,357,Göttingen,16101
+de_DE,358,Göttingen,49452
+de_DE,359,Göttingen,66430
+de_DE,360,Göttingen,81326
+de_DE,361,Göttingen,84027
+de_DE,362,Güstrow,06354
+de_DE,363,Güstrow,29668
+de_DE,364,Gütersloh,59427
+de_DE,365,Gütersloh,71405
+de_DE,366,Gütersloh,85560
+de_DE,367,Hagenow,26193
+de_DE,368,Hagenow,65236
+de_DE,369,Hagenow,98533
+de_DE,370,Hainichen,13619
+de_DE,371,Hainichen,35871
+de_DE,372,Hainichen,40504
+de_DE,373,Hainichen,63052
+de_DE,374,Halberstadt,35851
+de_DE,375,Haldensleben,48179
+de_DE,376,Haldensleben,50340
+de_DE,377,Haldensleben,65353
+de_DE,378,Haldensleben,97366
+de_DE,379,Hamburg,37089
+de_DE,380,Hamburg,78830
+de_DE,381,Hamburg,92851
+de_DE,382,Hammelburg,24267
+de_DE,383,Hammelburg,32049
+de_DE,384,Hammelburg,62972
+de_DE,385,Hammelburg,73403
+de_DE,386,Hammelburg,80252
+de_DE,387,Hammelburg,97097
+de_DE,388,Hannover,24789
+de_DE,389,Hannover,63600
+de_DE,390,Hannover,79666
+de_DE,391,Hannoversch Münden,53133
+de_DE,392,Hannoversch Münden,75409
+de_DE,393,Hannoversch Münden,82094
+de_DE,394,Hansestadttralsund,18865
+de_DE,395,Hansestadttralsund,96227
+de_DE,396,Havelberg,33700
+de_DE,397,Havelberg,60286
+de_DE,398,Havelberg,67296
+de_DE,399,Havelberg,93105
+de_DE,400,Hechingen,25441
+de_DE,401,Hechingen,49910
+de_DE,402,Heiligenstadt,51538
+de_DE,403,Heiligenstadt,90238
+de_DE,404,Heinsberg,46840
+de_DE,405,Heinsberg,59580
+de_DE,406,Helmstedt,07043
+de_DE,407,Helmstedt,07258
+de_DE,408,Helmstedt,14308
+de_DE,409,Helmstedt,26517
+de_DE,410,Herford,16789
+de_DE,411,Herford,19771
+de_DE,412,Herford,44717
+de_DE,413,Herford,72963
+de_DE,414,Herford,96742
+de_DE,415,Hersbruck,02923
+de_DE,416,Hersbruck,03995
+de_DE,417,Hersbruck,14667
+de_DE,418,Hersbruck,52588
+de_DE,419,Hersbruck,69982
+de_DE,420,Herzberg,16899
+de_DE,421,Herzberg,34154
+de_DE,422,Hettstedt,54516
+de_DE,423,Hettstedt,94507
+de_DE,424,Hildburghausen,18853
+de_DE,425,Hildburghausen,22798
+de_DE,426,Hildburghausen,82575
+de_DE,427,Hildburghausen,85807
+de_DE,428,Hildesheim,55041
+de_DE,429,Hildesheim,60844
+de_DE,430,Hildesheim,85215
+de_DE,431,Hohenmölsen,18626
+de_DE,432,Hohenmölsen,49555
+de_DE,433,Hohenmölsen,59923
+de_DE,434,Hohenmölsen,77282
+de_DE,435,Holzminden,46216
+de_DE,436,Holzminden,70412
+de_DE,437,Holzminden,79865
+de_DE,438,Holzminden,83415
+de_DE,439,Hoyerswerda,26289
+de_DE,440,Hoyerswerda,31672
+de_DE,441,Hoyerswerda,48759
+de_DE,442,Hoyerswerda,86040
+de_DE,443,Husum,70883
+de_DE,444,Höxter,31156
+de_DE,445,Höxter,36720
+de_DE,446,Höxter,78303
+de_DE,447,Höxter,81955
+de_DE,448,Höxter,99291
+de_DE,449,Hünfeld,65312
+de_DE,450,Illertissen,07006
+de_DE,451,Illertissen,09571
+de_DE,452,Illertissen,18609
+de_DE,453,Illertissen,28822
+de_DE,454,Illertissen,40786
+de_DE,455,Ilmenau,23675
+de_DE,456,Ilmenau,34191
+de_DE,457,Ilmenau,79391
+de_DE,458,Ilmenau,82258
+de_DE,459,Ingolstadt,22863
+de_DE,460,Ingolstadt,49551
+de_DE,461,Ingolstadt,66905
+de_DE,462,Ingolstadt,82078
+de_DE,463,Iserlohn,33963
+de_DE,464,Iserlohn,39125
+de_DE,465,Iserlohn,45713
+de_DE,466,Jena,34148
+de_DE,467,Jena,65639
+de_DE,468,Jessen,01576
+de_DE,469,Jessen,02020
+de_DE,470,Jessen,89238
+de_DE,471,Jülich,06980
+de_DE,472,Jülich,25932
+de_DE,473,Jülich,99846
+de_DE,474,Jüterbog,18459
+de_DE,475,Jüterbog,88160
+de_DE,476,Kaiserslautern,16681
+de_DE,477,Kamenz,15391
+de_DE,478,Kamenz,50134
+de_DE,479,Kamenz,82646
+de_DE,480,Karlsruhe,07141
+de_DE,481,Karlsruhe,13755
+de_DE,482,Karlsruhe,35005
+de_DE,483,Karlsruhe,47772
+de_DE,484,Karlsruhe,49884
+de_DE,485,Kassel,08759
+de_DE,486,Kassel,64943
+de_DE,487,Kassel,66951
+de_DE,488,Kassel,73610
+de_DE,489,Kassel,98227
+de_DE,490,Kehl,04880
+de_DE,491,Kehl,16560
+de_DE,492,Kehl,25093
+de_DE,493,Kelheim,58471
+de_DE,494,Kelheim,89666
+de_DE,495,Kelheim,92137
+de_DE,496,Kelheim,95777
+de_DE,497,Kelheim,99090
+de_DE,498,Kemnath,81767
+de_DE,499,Kemnath,87694
+de_DE,500,Kleve,28306
+de_DE,501,Kleve,32577
+de_DE,502,Kleve,82242
+de_DE,503,Klötze,21741
+de_DE,504,Klötze,38545
+de_DE,505,Klötze,66158
+de_DE,506,Klötze,81160
+de_DE,507,Koblenz,29821
+de_DE,508,Koblenz,64567
+de_DE,509,Koblenz,68544
+de_DE,510,Konstanz,07228
+de_DE,511,Kronach,09886
+de_DE,512,Kronach,16046
+de_DE,513,Kronach,40824
+de_DE,514,Kronach,65208
+de_DE,515,Kronach,68258
+de_DE,516,Kronach,79190
+de_DE,517,Kronach,88479
+de_DE,518,Kronach,93435
+de_DE,519,Kulmbach,31901
+de_DE,520,Kusel,24163
+de_DE,521,Kusel,97959
+de_DE,522,Kyritz,05283
+de_DE,523,Kyritz,08124
+de_DE,524,Kyritz,09449
+de_DE,525,Kyritz,43509
+de_DE,526,Kyritz,66004
+de_DE,527,Kyritz,73349
+de_DE,528,Königs Wusterhausen,08421
+de_DE,529,Königs Wusterhausen,74744
+de_DE,530,Königs Wusterhausen,77233
+de_DE,531,Königs Wusterhausen,87377
+de_DE,532,Kötzting,32039
+de_DE,533,Kötzting,40152
+de_DE,534,Kötzting,60801
+de_DE,535,Kötzting,86238
+de_DE,536,Leipziger Land,61604
+de_DE,537,Lemgo,15035
+de_DE,538,Lemgo,38033
+de_DE,539,Lippstadt,12798
+de_DE,540,Lippstadt,23124
+de_DE,541,Lippstadt,77887
+de_DE,542,Luckau,42421
+de_DE,543,Luckau,87895
+de_DE,544,Luckenwalde,02729
+de_DE,545,Luckenwalde,05386
+de_DE,546,Luckenwalde,75831
+de_DE,547,Ludwigsburg,57069
+de_DE,548,Ludwigslust,41126
+de_DE,549,Ludwigslust,64764
+de_DE,550,Ludwigslust,74858
+de_DE,551,Ludwigslust,98420
+de_DE,552,Lörrach,28561
+de_DE,553,Lörrach,56207
+de_DE,554,Lübben,24046
+de_DE,555,Lübben,35298
+de_DE,556,Lübben,57895
+de_DE,557,Lübben,66503
+de_DE,558,Lübeck,18180
+de_DE,559,Lübeck,39498
+de_DE,560,Lüdenscheid,13328
+de_DE,561,Lüdenscheid,34433
+de_DE,562,Lüdenscheid,49091
+de_DE,563,Lüdinghausen,01403
+de_DE,564,Lüdinghausen,23322
+de_DE,565,Lüdinghausen,76779
+de_DE,566,Lüneburg,00061
+de_DE,567,Lüneburg,38416
+de_DE,568,Lüneburg,98514
+de_DE,569,Mainburg,45723
+de_DE,570,Mainburg,46532
+de_DE,571,Mainburg,76687
+de_DE,572,Malchin,63091
+de_DE,573,Malchin,63746
+de_DE,574,Mallersdorf,35993
+de_DE,575,Mallersdorf,88787
+de_DE,576,Marienberg,39134
+de_DE,577,Marienberg,63016
+de_DE,578,Marktheidenfeld,31021
+de_DE,579,Mayen,90436
+de_DE,580,Mayen,97560
+de_DE,581,Meiningen,53799
+de_DE,582,Meiningen,58281
+de_DE,583,Meiningen,91225
+de_DE,584,Meißen,19706
+de_DE,585,Meißen,25878
+de_DE,586,Meißen,42378
+de_DE,587,Meißen,42387
+de_DE,588,Meißen,45059
+de_DE,589,Meißen,56666
+de_DE,590,Melle,26351
+de_DE,591,Melle,51956
+de_DE,592,Mellrichstadt,09266
+de_DE,593,Mellrichstadt,22650
+de_DE,594,Mellrichstadt,44336
+de_DE,595,Melsungen,90127
+de_DE,596,Melsungen,94233
+de_DE,597,Meppen,60221
+de_DE,598,Merseburg,13653
+de_DE,599,Merseburg,35500
+de_DE,600,Merseburg,57374
+de_DE,601,Merseburg,66362
+de_DE,602,Mettmann,09642
+de_DE,603,Mettmann,31406
+de_DE,604,Miesbach,08723
+de_DE,605,Miesbach,30566
+de_DE,606,Miltenberg,12793
+de_DE,607,Miltenberg,28490
+de_DE,608,Miltenberg,52283
+de_DE,609,Miltenberg,55413
+de_DE,610,Miltenberg,74984
+de_DE,611,Mittweida,30381
+de_DE,612,Mittweida,76827
+de_DE,613,Mittweida,88708
+de_DE,614,Moers,08897
+de_DE,615,Moers,09469
+de_DE,616,Moers,09600
+de_DE,617,Moers,31597
+de_DE,618,Moers,36787
+de_DE,619,Moers,76281
+de_DE,620,Moers,90704
+de_DE,621,Monschau,25555
+de_DE,622,Monschau,58784
+de_DE,623,Mühldorf am Inn,38650
+de_DE,624,Mühldorf am Inn,61586
+de_DE,625,Mühlhausen,24793
+de_DE,626,Mühlhausen,63263
+de_DE,627,Mühlhausen,89569
+de_DE,628,München,22559
+de_DE,629,München,27872
+de_DE,630,München,64174
+de_DE,631,München,65993
+de_DE,632,Nabburg,03666
+de_DE,633,Nabburg,41513
+de_DE,634,Nabburg,48612
+de_DE,635,Nabburg,77521
+de_DE,636,Nabburg,83737
+de_DE,637,Nabburg,89377
+de_DE,638,Naila,90317
+de_DE,639,Naila,93637
+de_DE,640,Nauen,54094
+de_DE,641,Nauen,58478
+de_DE,642,Nauen,90363
+de_DE,643,Nauen,93589
+de_DE,644,Neu-Ulm,07389
+de_DE,645,Neu-Ulm,07546
+de_DE,646,Neu-Ulm,26308
+de_DE,647,Neu-Ulm,81538
+de_DE,648,Neu-Ulm,98769
+de_DE,649,Neunburg vorm Wald,79023
+de_DE,650,Neunburg vorm Wald,79535
+de_DE,651,Neunburg vorm Wald,95180
+de_DE,652,Neuruppin,35028
+de_DE,653,Neuruppin,44921
+de_DE,654,Neuruppin,47251
+de_DE,655,Neuruppin,49980
+de_DE,656,Neuruppin,74749
+de_DE,657,Neuss,35202
+de_DE,658,Neuss,90174
+de_DE,659,Neustadt am Rübenberge,05201
+de_DE,660,Neustadtner Waldnaab,02842
+de_DE,661,Neustadtner Waldnaab,08594
+de_DE,662,Neustadtner Waldnaab,43323
+de_DE,663,Neustadtner Waldnaab,60842
+de_DE,664,Neustadtner Waldnaab,70665
+de_DE,665,Neustrelitz,82536
+de_DE,666,Niesky,71485
+de_DE,667,Norden,08015
+de_DE,668,Norden,39876
+de_DE,669,Norden,66053
+de_DE,670,Nordhausen,23990
+de_DE,671,Nordhausen,60366
+de_DE,672,Northeim,43430
+de_DE,673,Northeim,57328
+de_DE,674,Nördlingen,45811
+de_DE,675,Nördlingen,47740
+de_DE,676,Nördlingen,50021
+de_DE,677,Nördlingen,58715
+de_DE,678,Nördlingen,76895
+de_DE,679,Nürtingen,68288
+de_DE,680,Nürtingen,74464
+de_DE,681,Nürtingen,87773
+de_DE,682,Oberviechtach,47798
+de_DE,683,Ochsenfurt,50740
+de_DE,684,Ochsenfurt,54030
+de_DE,685,Olpe,14643
+de_DE,686,Olpe,43312
+de_DE,687,Olpe,44965
+de_DE,688,Olpe,63347
+de_DE,689,Olpe,99774
+de_DE,690,Oranienburg,16983
+de_DE,691,Oranienburg,61864
+de_DE,692,Oranienburg,71373
+de_DE,693,Oranienburg,99545
+de_DE,694,Oschatz,59794
+de_DE,695,Oschatz,66480
+de_DE,696,Osterburg,38512
+de_DE,697,Osterburg,45038
+de_DE,698,Osterode am Harz,28724
+de_DE,699,Osterode am Harz,67192
+de_DE,700,Osterode am Harz,75352
+de_DE,701,Osterode am Harz,85136
+de_DE,702,Paderborn,20190
+de_DE,703,Paderborn,81321
+de_DE,704,Paderborn,97676
+de_DE,705,Parchim,71836
+de_DE,706,Parsberg,14019
+de_DE,707,Parsberg,37805
+de_DE,708,Pasewalk,71871
+de_DE,709,Passau,20103
+de_DE,710,Passau,65082
+de_DE,711,Pegnitz,40939
+de_DE,712,Peine,66315
+de_DE,713,Peine,70655
+de_DE,714,Perleberg,38708
+de_DE,715,Pfaffenhofen an der Ilm,43140
+de_DE,716,Pfaffenhofen an der Ilm,53993
+de_DE,717,Pfaffenhofen an der Ilm,68652
+de_DE,718,Pfaffenhofen an der Ilm,80882
+de_DE,719,Pinneberg,67297
+de_DE,720,Pirmasens,38775
+de_DE,721,Pirmasens,66952
+de_DE,722,Pirmasens,84781
+de_DE,723,Plauen,03549
+de_DE,724,Plauen,11748
+de_DE,725,Potsdam,02397
+de_DE,726,Potsdam,49331
+de_DE,727,Potsdam,92554
+de_DE,728,Prenzlau,32065
+de_DE,729,Prenzlau,35266
+de_DE,730,Prenzlau,72296
+de_DE,731,Pößneck,78988
+de_DE,732,Quedlinburg,41942
+de_DE,733,Querfurt,12697
+de_DE,734,Querfurt,33481
+de_DE,735,Rastatt,98128
+de_DE,736,Rastatt,99435
+de_DE,737,Rastatt,99851
+de_DE,738,Rathenow,32786
+de_DE,739,Rathenow,63450
+de_DE,740,Ravensburg,45860
+de_DE,741,Ravensburg,95290
+de_DE,742,Recklinghausen,79677
+de_DE,743,Regen,37253
+de_DE,744,Regensburg,02589
+de_DE,745,Regensburg,05281
+de_DE,746,Regensburg,71300
+de_DE,747,Regensburg,73047
+de_DE,748,Rehau,11762
+de_DE,749,Rehau,14213
+de_DE,750,Rehau,32615
+de_DE,751,Rehau,73671
+de_DE,752,Rehau,99864
+de_DE,753,Reutlingen,54164
+de_DE,754,Reutlingen,65557
+de_DE,755,Reutlingen,88550
+de_DE,756,Riesa,12299
+de_DE,757,Riesa,40192
+de_DE,758,Rochlitz,43904
+de_DE,759,Roding,10800
+de_DE,760,Roding,35053
+de_DE,761,Roding,56677
+de_DE,762,Roding,87352
+de_DE,763,Roth,10225
+de_DE,764,Roth,34404
+de_DE,765,Roth,90958
+de_DE,766,Rothenburg ob der Tauber,44989
+de_DE,767,Rothenburg ob der Tauber,64585
+de_DE,768,Rothenburg ob der Tauber,76304
+de_DE,769,Rottweil,45821
+de_DE,770,Rottweil,62519
+de_DE,771,Rudolstadt,36869
+de_DE,772,Rudolstadt,44622
+de_DE,773,Saarbrücken,02302
+de_DE,774,Saarlouis,51697
+de_DE,775,Sangerhausen,43257
+de_DE,776,Sangerhausen,44207
+de_DE,777,Sangerhausen,47153
+de_DE,778,Sangerhausen,92027
+de_DE,779,Sankt Goar,50448
+de_DE,780,Sankt Goarshausen,21424
+de_DE,781,Sankt Goarshausen,58320
+de_DE,782,Sankt Goarshausen,67025
+de_DE,783,Saulgau,12409
+de_DE,784,Saulgau,21790
+de_DE,785,Saulgau,48531
+de_DE,786,Saulgau,51657
+de_DE,787,Scheinfeld,34132
+de_DE,788,Schleiz,30271
+de_DE,789,Schlüchtern,08710
+de_DE,790,Schlüchtern,46124
+de_DE,791,Schongau,11536
+de_DE,792,Schongau,33716
+de_DE,793,Schongau,69595
+de_DE,794,Schongau,93126
+de_DE,795,Schrobenhausen,23781
+de_DE,796,Schrobenhausen,54352
+de_DE,797,Schrobenhausen,56216
+de_DE,798,Schwabmünchen,11382
+de_DE,799,Schwabmünchen,47334
+de_DE,800,Schwandorf,10829
+de_DE,801,Schwandorf,11794
+de_DE,802,Schwandorf,20881
+de_DE,803,Schwarzenberg,38619
+de_DE,804,Schwarzenberg,44109
+de_DE,805,Schweinfurt,33439
+de_DE,806,Schwerin,13295
+de_DE,807,Schwerin,48762
+de_DE,808,Schwerin,62704
+de_DE,809,Schwerin,66308
+de_DE,810,Schwäbisch Gmünd,35217
+de_DE,811,Schwäbisch Gmünd,38953
+de_DE,812,Sebnitz,56019
+de_DE,813,Sebnitz,88226
+de_DE,814,Senftenberg,04038
+de_DE,815,Senftenberg,10567
+de_DE,816,Senftenberg,21639
+de_DE,817,Senftenberg,68782
+de_DE,818,Siegen,29943
+de_DE,819,Siegen,77896
+de_DE,820,Siegen,91109
+de_DE,821,Sigmaringen,07812
+de_DE,822,Sigmaringen,14045
+de_DE,823,Sigmaringen,82224
+de_DE,824,Sigmaringen,96492
+de_DE,825,Soest,38263
+de_DE,826,Soest,87917
+de_DE,827,Soltau,07189
+de_DE,828,Soltau,19838
+de_DE,829,Soltau,67086
+de_DE,830,Soltau,70355
+de_DE,831,Soltau,75634
+de_DE,832,Soltau,88902
+de_DE,833,Sondershausen,00558
+de_DE,834,Sonneberg,32325
+de_DE,835,Sonneberg,63679
+de_DE,836,Sonneberg,68181
+de_DE,837,Sonneberg,70350
+de_DE,838,Sonneberg,74334
+de_DE,839,Sonneberg,79801
+de_DE,840,Spremberg,90623
+de_DE,841,Stade,08083
+de_DE,842,Stade,43773
+de_DE,843,Stade,44057
+de_DE,844,Stadtroda,02312
+de_DE,845,Stadtroda,68669
+de_DE,846,Stadtroda,72273
+de_DE,847,Stadtroda,82742
+de_DE,848,Stadtroda,94911
+de_DE,849,Stadtsteinach,23190
+de_DE,850,Stadtsteinach,42090
+de_DE,851,Stadtsteinach,52326
+de_DE,852,Stadtsteinach,83936
+de_DE,853,Staffelstein,65875
+de_DE,854,Starnberg,23733
+de_DE,855,Starnberg,40821
+de_DE,856,Starnberg,57252
+de_DE,857,Starnberg,57408
+de_DE,858,Starnberg,78332
+de_DE,859,Starnberg,89971
+de_DE,860,Starnberg,94685
+de_DE,861,Staßfurt,35644
+de_DE,862,Staßfurt,53426
+de_DE,863,Staßfurt,86770
+de_DE,864,Steinfurt,26868
+de_DE,865,Stendal,21542
+de_DE,866,Stendal,53814
+de_DE,867,Stendal,68063
+de_DE,868,Sternberg,14924
+de_DE,869,Sternberg,37667
+de_DE,870,Sternberg,45954
+de_DE,871,Sternberg,72276
+de_DE,872,Stollberg,31476
+de_DE,873,Stollberg,35900
+de_DE,874,Stollberg,45741
+de_DE,875,Strasburg,08014
+de_DE,876,Strasburg,52321
+de_DE,877,Strasburg,59501
+de_DE,878,Strausberg,75283
+de_DE,879,Stuttgart,81214
+de_DE,880,Stuttgart,86548
+de_DE,881,Stuttgart,89281
+de_DE,882,Suhl,30880
+de_DE,883,Sulzbach-Rosenberg,17269
+de_DE,884,Sulzbach-Rosenberg,84374
+de_DE,885,Säckingen,23278
+de_DE,886,Säckingen,28864
+de_DE,887,Säckingen,79623
+de_DE,888,Sömmerda,26706
+de_DE,889,Sömmerda,65261
+de_DE,890,Tecklenburg,41090
+de_DE,891,Tecklenburg,48866
+de_DE,892,Tecklenburg,50374
+de_DE,893,Tecklenburg,51875
+de_DE,894,Teterow,06330
+de_DE,895,Teterow,19455
+de_DE,896,Teterow,64238
+de_DE,897,Teterow,70436
+de_DE,898,Tirschenreuth,15203
+de_DE,899,Tirschenreuth,15911
+de_DE,900,Tirschenreuth,19694
+de_DE,901,Torgau,05514
+de_DE,902,Torgau,11446
+de_DE,903,Torgau,48641
+de_DE,904,Torgau,49082
+de_DE,905,Torgau,91940
+de_DE,906,Tübingen,96691
+de_DE,907,Ueckermünde,00151
+de_DE,908,Ueckermünde,73630
+de_DE,909,Ueckermünde,93573
+de_DE,910,Uelzen,18202
+de_DE,911,Uelzen,30323
+de_DE,912,Uelzen,87996
+de_DE,913,Uffenheim,07467
+de_DE,914,Uffenheim,18292
+de_DE,915,Uffenheim,45047
+de_DE,916,Vechta,07480
+de_DE,917,Vechta,22284
+de_DE,918,Vechta,77664
+de_DE,919,Viechtach,41675
+de_DE,920,Viechtach,77784
+de_DE,921,Viechtach,96530
+de_DE,922,Viersen,33756
+de_DE,923,Viersen,87913
+de_DE,924,Vilsbiburg,14961
+de_DE,925,Vilsbiburg,20061
+de_DE,926,Vilsbiburg,50515
+de_DE,927,Vilsbiburg,66776
+de_DE,928,Vohenstrauß,28641
+de_DE,929,Vohenstrauß,81121
+de_DE,930,Waldmünchen,50802
+de_DE,931,Waldmünchen,56674
+de_DE,932,Waldmünchen,58107
+de_DE,933,Wanzleben,45452
+de_DE,934,Waren,26631
+de_DE,935,Waren,88858
+de_DE,936,Warendorf,15162
+de_DE,937,Warendorf,27016
+de_DE,938,Warendorf,87234
+de_DE,939,Weimar,09850
+de_DE,940,Weimar,19057
+de_DE,941,Weimar,19827
+de_DE,942,Weimar,47725
+de_DE,943,Weißenfels,24397
+de_DE,944,Weißenfels,55290
+de_DE,945,Weißwasser,26190
+de_DE,946,Werdau,04021
+de_DE,947,Werdau,28461
+de_DE,948,Wernigerode,12321
+de_DE,949,Wernigerode,15102
+de_DE,950,Wertingen,31922
+de_DE,951,Wertingen,45955
+de_DE,952,Wesel,22871
+de_DE,953,Wesel,30637
+de_DE,954,Wesel,97548
+de_DE,955,Wetzlar,23823
+de_DE,956,Wetzlar,27278
+de_DE,957,Wetzlar,32561
+de_DE,958,Wetzlar,65916
+de_DE,959,Wetzlar,68181
+de_DE,960,Wetzlar,85082
+de_DE,961,Wiedenbrück,20442
+de_DE,962,Wiedenbrück,79035
+de_DE,963,Wismar,21431
+de_DE,964,Wismar,22811
+de_DE,965,Wismar,35825
+de_DE,966,Wismar,36720
+de_DE,967,Wittenberg,16588
+de_DE,968,Wittenberg,32482
+de_DE,969,Wittenberg,38420
+de_DE,970,Wittenberg,54834
+de_DE,971,Wittenberg,99367
+de_DE,972,Wittmund,21184
+de_DE,973,Wittmund,36250
+de_DE,974,Wittmund,39722
+de_DE,975,Wittstock,47652
+de_DE,976,Wittstock,72205
+de_DE,977,Witzenhausen,46783
+de_DE,978,Witzenhausen,53504
+de_DE,979,Witzenhausen,72098
+de_DE,980,Wolfach,90669
+de_DE,981,Wolfach,94825
+de_DE,982,Wolfenbüttel,47617
+de_DE,983,Wolfenbüttel,90875
+de_DE,984,Wolfenbüttel,96345
+de_DE,985,Wolfratshausen,76231
+de_DE,986,Wolgast,21046
+de_DE,987,Wolgast,40818
+de_DE,988,Worbis,30678
+de_DE,989,Worbis,50659
+de_DE,990,Worbis,67275
+de_DE,991,Worbis,85869
+de_DE,992,Wunsiedel,21763
+de_DE,993,Wunsiedel,38842
+de_DE,994,Wunsiedel,97937
+de_DE,995,Zerbst,70699
+de_DE,996,Zeulenroda,51738
+de_DE,997,Zeulenroda,52068
+de_DE,998,Zossen,68948
+de_DE,999,Zschopau,27590
+de_DE,1000,Zschopau,32317

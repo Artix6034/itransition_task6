@@ -1,0 +1,14 @@
+{
+  "users": 100000,
+  "repeats": 3,
+  "seconds": [
+    32.131779299998016,
+    32.75807809999969,
+    33.44636759999776
+  ],
+  "median_users_per_second": 3052.7,
+  "postgresql": "17.11",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "warmup_users": 1000,
+  "measurement": "SQL generation and temp table materialization; excludes transfer and HTML rendering"
+}

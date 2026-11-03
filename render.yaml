@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: itransition-contacts-artix6034
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt && python init_db.py
+    startCommand: python app.py
+    healthCheckPath: /health
+    envVars:
+      - key: HOST
+        value: 0.0.0.0
+      - key: PYTHON_VERSION
+        value: 3.12.14
+      - key: DATABASE_URL
+        sync: false
