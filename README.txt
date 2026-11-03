@@ -1,5 +1,10 @@
 TASK 6 DATA - SQL contact generator
 
+Live application: https://itransition-contacts-artix6034.onrender.com
+Public source: https://github.com/Artix6034/itransition_task6
+Procedure documentation: https://itransition-contacts-artix6034.onrender.com/docs
+Free Render database expires December 3, 2026. Recreate it or change the plan before then.
+
 Runtime: Python 3.11+, PostgreSQL 14+.
 
 Set DATABASE_URL to a PostgreSQL connection URI. Use a database created for
